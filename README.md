@@ -24,6 +24,6 @@ Utilizando la libreria javascript de d3js se construyen los dos graficos solicit
 `TODO: pendiente sumarizar por cantidad de habitaciones para reducir la grafica`
 `TODO: pendiente poner la descripcion de los ejes`
 
-![Dashboard](ResultadoVisualizaciones.png)
+![Dashboard](visualizaciones.png)
 
 
