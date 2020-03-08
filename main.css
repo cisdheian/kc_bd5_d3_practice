@@ -1,0 +1,33 @@
+h1{
+  font-family: Cambria;
+  font-size: 40px;
+  text-align: center;
+  color: #3288bd;
+}
+h3{
+  font-family: Cambria;
+  font-size: 20px;
+  text-align: left;
+  color: #3288bd;
+}
+.tick text {
+  fill: red;
+}
+
+.Barrio{
+  font-family: Calibri;
+  font-size: 30px;
+  text-align: center;
+  color: #3288bd;
+}
+
+.bar {
+  display: inline-block;
+  margin-right: 2px;
+  fill:#3288bd;
+}
+.nobar {
+  display: inline-block;
+  margin-right: 2px;
+  fill:#ffffff;
+}
